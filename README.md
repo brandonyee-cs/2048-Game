@@ -1,4 +1,4 @@
-*2048 Game
+# 2048 Game
 
 Simple 2048 game in HTML, CSS, and JS.
 
